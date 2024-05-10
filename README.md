@@ -1,5 +1,7 @@
 # Chirpy Starter
 
+[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/your-github-username/your-repository-name)
+
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
@@ -28,7 +30,11 @@ latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so tha
 ## Prerequisites
 
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+the basic environment.
+
+Best practice is to [deploy Jekyll dependencies to a Docker container](https://powers-hell.com/2021/07/25/build-a-jekyll-development-environment-with-vs-code-remote-containers/)
+
+[Git](https://git-scm.com/) also needs to be installed.
 
 ## Installation
 
